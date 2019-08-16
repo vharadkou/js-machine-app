@@ -19,5 +19,5 @@ steps:
       npm ci
       npm run build
     displayName: 'npm install and build'
-    workingDirectory: '/js_machine_front'
+    workingDirectory: './js_machine_front'
     
